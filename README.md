@@ -1,0 +1,1 @@
+# malody-map-randomizor
